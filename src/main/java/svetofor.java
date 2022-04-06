@@ -2,9 +2,9 @@ public class svetofor {
     public static void main(String[] args) {
         boolean isGreenLight = false;
 
-        int speedOfPlayer1 = 5;
-        int speedOfPlayer2 = 0;
-        int speedOfPlayer3 = 2;
+        int speedOfPlayer1 = 3;
+        int speedOfPlayer2 = 2;
+        int speedOfPlayer3 = 1;
 
         int count = 0;   // количество выбывших игроков
 
